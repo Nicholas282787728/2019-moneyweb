@@ -1,0 +1,57 @@
+I am 25 and would like to start a share portfolio. I am currently reading about the stock market and listening to talks, but would like to get expert opinions regarding this. What is a good balanced portfolio to start with for someone my age? The goal is to invest for quite a long period (three to five years or even more). .profilequote-name {
+                    display: block;
+                    float: left;
+                }
+
+                .profile-left a, .profilequote-name a {
+                    text-decoration: none !important;
+                }
+
+                .profilequote-left {
+                    position: relative;
+                    background: #f3f3f3;
+                    border-left: 2px solid #c9c9c9;
+                    color: #666;
+                    padding: 15px 15px 10px 15px;
+                    border-radius: 10px;
+                }
+
+                .profilequote-left:after, .profilequote-left:before {
+                    right: 100%;
+                    top: 30px;
+                    border: solid transparent;
+                    content: " ";
+                    height: 0;
+                    width: 0;
+                    position: absolute;
+                    pointer-events: none;
+                }
+
+                .profilequote-left:after {
+                    border-color: rgba(0, 0, 0, 0);
+                    border-right-color: #;
+                    border-width: 11px;
+                    margin-top: -11px;
+                }
+
+                .profilequote-left:before {
+                    border-color: rgba(201, 201, 201, 0);
+                    border-right-color: #c9c9c9;
+                    border-width: 12px;
+                    margin-top: -12px;
+                }
+
+                .profileimg {
+                    border-radius: 50%;
+                    width: 75px;
+                    height: 75px;
+                    margin: 0 auto;
+                    overflow: hidden;
+                    border: 1px solid #eee;
+                    margin-top: -10px;
+                }
+
+                .profileimg img {
+                    opacity: 1.0;
+                    width: auto;
+                }  Investing in one’s own portfolio of carefully-selected shares is something that can be very exciting – particularly for a relatively young investor with a long time frame. I run my own virtual share portfolio on EasyEquities as an exciting experiment to see if I can outperform my investment, which is managed by what I consider to be the top local fund managers, based on their top stock pick ideas. The lesson I have come to learn is that the information I base stock picks on may only be relevant at that point in time. When fundamentals change I become ill-equipped to re-evaluate my decision and therefore begin to question whether I should act or sit tight. I use the top stock pick ideas from respected asset managers such as Allan Gray, Coronation, Foord, 36One, PSG and others as the rationale for what I hold in my virtual trading account. It nevertheless hasn’t gone well thus far. The investment case put forward for the particular stocks appears soundly robust based on their research (and I believe it is). However, as both local and global economic policy changes and geopolitical events begin to play out, the investment case for some of these companies needs to be re-evaluated and updated accordingly. A fund manager should be well equipped to make these decisions, while others may make less informed decisions. Running one’s own share portfolio is therefore exciting but also carries added risk, some of which is hard for the investor to quantify. This begs the question as to whether or not an investor should leave the bulk of their investment assets with an asset manager, while only managing a relatively smaller portion of their overall portfolio, in order to manage risk and ensure that the majority of their wealth is well-managed. What is a good balanced portfolio to start with for someone of my age? A full equity portfolio is not ordinarily considered to be a balanced portfolio in terms of conventional risk metrics, as it carries full equity risk. The graph below shows the evolving asset allocation of the Foord Balanced Fund over time. According to their views, they will allocate capital to less risky assets such as cash and bonds when there is too much risk in the market, or when they offer attractive relative value. They will also deploy that cash into growth assets when they feel there is a suitable risk-to-reward ratio in a company. This balanced strategy is arguably harder to manage than allocating the majority of one’s capital to equities with a long-term view and a moderate understanding of volatility.  Source: Foord Balanced Fund Fact Sheet  One must also consider how they approach the notion of risk, as it is often relative to each individual and their circumstances or expectations. A balanced full-equity approach would assume that an investor is prepared to endure a reasonable degree of volatility by holding high quality companies, as opposed to highly leveraged or cyclical companies. In theory, one could state that a relatively young investor with a long-term time frame could take a higher degree of risk, due to the fact that they would likely have the appropriate capacity for risk. However, other factors such as risk tolerance (how we perceive volatility) would need to be considered in conjunction with the capacity for risk. An appropriate equity time frame Traditionally a balanced risk profile should be no less than five years and preferably closer to seven years, while a full-equity risk profile should have a time frame of no less than seven years and preferable closer to 10 years. With a three-year time frame one would need to be cautious when allocating capital to equity, while a five-year time frame assumes that, historically, local equities would have been positive over that period. The graph below shows the rolling (consecutive) five-year performance of South African equities:  Source: Coronation’s Coroconnect newsletter  As one can see, equities go through periods of decline when investors need to remain invested and adjust their expectations – which may include holding their equity for longer than initially anticipated due to a fall in the market. The graph shows that over all rolling five years, equity returns since 1975 remain in positive territory, while over rolling three-year periods equity returns could have been negative. Starting with ETFs for stock picks If you would prefer to run your own portfolio of shares as opposed to using collective investments schemes or ‘funds’, then I would suggest that you consider using exchange-traded funds (ETFs) with broad mandates to select the majority of your underlying shares, while in addition selecting a handful of shares that you have researched and would like exposure to. The article ‘Six secrets to building a successful investment portfolio‘ by Joshua Kennon gives basic yet important points to consider when constructing an investment portfolio. I would encourage you to carefully consider how you can adopt each point in your share portfolio.  
