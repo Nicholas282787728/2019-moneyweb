@@ -1,0 +1,57 @@
+My wife and I are 61 years old and are thinking of retiring soon. We have a combined monthly income of +/- R50 000. We have an Investec iSelect Bond valued at R4 500 000 equal parts to Investec Cautious Managed Fund, Investec High Income Fund, PSG Flexible Fund and Sim Bond Plus. We will be acquiring another R7 000 000 around May 2019 from sale of properties. Is it realistic to think of retirement and what would be the best investment to protect the capital and have similar standards of living ? .profilequote-name {
+                    display: block;
+                    float: left;
+                }
+
+                .profile-left a, .profilequote-name a {
+                    text-decoration: none !important;
+                }
+
+                .profilequote-left {
+                    position: relative;
+                    background: #f3f3f3;
+                    border-left: 2px solid #c9c9c9;
+                    color: #666;
+                    padding: 15px 15px 10px 15px;
+                    border-radius: 10px;
+                }
+
+                .profilequote-left:after, .profilequote-left:before {
+                    right: 100%;
+                    top: 30px;
+                    border: solid transparent;
+                    content: " ";
+                    height: 0;
+                    width: 0;
+                    position: absolute;
+                    pointer-events: none;
+                }
+
+                .profilequote-left:after {
+                    border-color: rgba(0, 0, 0, 0);
+                    border-right-color: #;
+                    border-width: 11px;
+                    margin-top: -11px;
+                }
+
+                .profilequote-left:before {
+                    border-color: rgba(201, 201, 201, 0);
+                    border-right-color: #c9c9c9;
+                    border-width: 12px;
+                    margin-top: -12px;
+                }
+
+                .profileimg {
+                    border-radius: 50%;
+                    width: 75px;
+                    height: 75px;
+                    margin: 0 auto;
+                    overflow: hidden;
+                    border: 1px solid #eee;
+                    margin-top: -10px;
+                }
+
+                .profileimg img {
+                    opacity: 1.0;
+                    width: auto;
+                }  Please note the information provided below does not constitute financial advice; in fact, we are precluded from giving specific advice. Generic information has been applied in the context of your question. We have limited detail about you and your circumstances, and such detail may impact any advice provided. The cross-over from working to retirement has many dynamics including financial and psychological issues. Having had countless client engagements over the subject I think the most poignant consideration is that you are moving from a phase of wealth creation to a phase of wealth preservation, if you are lucky – or, most likely, wealth depletion. While parking my initial thoughts let’s carry on to the specifics. Investec Asset Management recently concluded a whole bunch of research (I understand it has been submitted to the Actuarial Society for publication) around living annuities, and most of their findings are relevant to retirement in general. The one thing that stands out is the need to have enough risk assets, read as equity exposure, in your portfolio. If you do decide to retire you need to pay careful attention to your asset allocation. Figure 1: Minimum equity exposure required to minimise failure risk of annuity  Source: Investec Asset Management  Figure 2: Failure rates of annuities with a maximum of 40% equity exposure  Source: Investec Asset Management  You are relatively young and there is a reasonable chance you could live until age 90; this means your retirement will account for around a third of your whole life and probably equivalent to 75% of your working life. Now, 29 years is a long time and the decisions you make upfront will have major effect down the line due to the effect of compounding. I have done a simple calculation, using the following assumptions, to try and determine your capital adequacy if you were to retire now: You could easily motivate that I have been reasonably conservative in my assumptions but when it comes to this type of decision then conservatism, in my view, is the ‘name of the game’. Based on these parameters your capital would deplete in 27 years, at age 88. The two gaps in the calculation that I used to work out the longevity of your capital is that it assumes a straight-line return and does not include any lump sum requirements (as for a new car, medical expenses and holidays). If I drop the monthly income requirement to R35 000 then the longevity of the funds increases to 38 years; please don’t forget the shortcomings mentioned in the previous sentence. I hope my response can positively add to your decision-making process. By asking the questions it is clear that you aren’t rushing in to anything which I think is the correct approach.  
