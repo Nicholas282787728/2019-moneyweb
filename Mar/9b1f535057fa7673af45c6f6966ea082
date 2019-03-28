@@ -1,0 +1,60 @@
+If I bequeath my living annuity to a grandchild, I believe he has to receive an income from it (monthly or otherwise). Assuming that he is still a minor at the time of my death, what will the tax implications be? Will he be able to register as a taxpayer and pay tax on this ‘pension’ in his own right, or will the income be added to his father’s income, resulting in it being taxed at his father’s marginal rate? .profilequote-name {
+                    display: block;
+                    float: left;
+                }
+
+                .profile-left a, .profilequote-name a {
+                    text-decoration: none !important;
+                }
+
+                .profilequote-left {
+                    position: relative;
+                    background: #f3f3f3;
+                    border-left: 2px solid #c9c9c9;
+                    color: #666;
+                    padding: 15px 15px 10px 15px;
+                    border-radius: 10px;
+                }
+
+                .profilequote-left:after, .profilequote-left:before {
+                    right: 100%;
+                    top: 30px;
+                    border: solid transparent;
+                    content: " ";
+                    height: 0;
+                    width: 0;
+                    position: absolute;
+                    pointer-events: none;
+                }
+
+                .profilequote-left:after {
+                    border-color: rgba(0, 0, 0, 0);
+                    border-right-color: #;
+                    border-width: 11px;
+                    margin-top: -11px;
+                }
+
+                .profilequote-left:before {
+                    border-color: rgba(201, 201, 201, 0);
+                    border-right-color: #c9c9c9;
+                    border-width: 12px;
+                    margin-top: -12px;
+                }
+
+                .profileimg {
+                    border-radius: 50%;
+                    width: 75px;
+                    height: 75px;
+                    margin: 0 auto;
+                    overflow: hidden;
+                    border: 1px solid #eee;
+                    margin-top: -10px;
+                }
+
+                .profileimg img {
+                    opacity: 1.0;
+                    width: auto;
+                }  An important aspect to consider is the structure he will choose (or have chosen for him if he is too young to make this decision), because the tax consequences on retirement benefits on death depend on the structure of the annuity the beneficiary receives. The beneficiary can choose to withdraw the full amount as a lump sum or receive an annuity income payable monthly or annually. In the case of a minor this decision will rest with his guardian. If a lump sum is paid to a beneficiary, it becomes liable for estate duty in the hands of the deceased’s estate and the taxable portion will be taxed according to the lump sum tables applicable to the deceased. However, if the amount is taken as an annuity, then the annuity is taxable in the hands of the beneficiary at the beneficiary’s rate of tax, as and when the annuity is paid. Individuals (including minors) who receive taxable income in excess of a specific amount (known as the ‘tax threshold’ amount) in a year of assessment are liable for income tax. The tax threshold amount for the 2020 year of assessment is:
+– R79 000 for individuals below the age of 65
+– R122 300 for individuals aged 65 years but under 75, and
+– R136 750 for individuals aged 75 years and older. Once the tax threshold has been exceeded, tax is determined according to a sliding scale (known as marginal or statutory rates). Tax rates for the 2020 year of assessment R0 – R195 850 18% of each R1 R195 851 – R305 850 R35 253 + 26% of the amount over R195 850 R305 851 – R423 300 R63 853 + 31% of the amount over R305 850 R423 301 – R555 600 R100 263 + 36% of the amount over R423 300 R555 601 – R708 310 R147 891 + 39% of the amount over R555 600 R708 311 – R1 500 000 R207 448 + 41% of the amount over R708 310 R1 500 001 + R532 041 + 45% of the amount over R1 500 000 Your beneficiary will be able to register as a taxpayer (refer to the requirements above) and pay tax in his own right, and his income will not be included in his father’s income. In practice, we see that the investment or insurance companies insist that the income be paid into the bank account of the guardian should the beneficiary be a minor – this is logical as the guardian is responsible for the upkeep and safeguarding of the minor. Leaving the funds available in your living annuity to a minor child is a good idea since he will benefit from a lower tax rate than if you left the funds to his parents, but be aware that the final choice of how the money will be used and how much is withdrawn will still be decided by his guardian.  
