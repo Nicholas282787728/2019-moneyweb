@@ -1,0 +1,57 @@
+My two children, aged 13 and 15, would like to start investing in unit trusts (long term). Which ones should we look at? .profilequote-name {
+                    display: block;
+                    float: left;
+                }
+
+                .profile-left a, .profilequote-name a {
+                    text-decoration: none !important;
+                }
+
+                .profilequote-left {
+                    position: relative;
+                    background: #f3f3f3;
+                    border-left: 2px solid #c9c9c9;
+                    color: #666;
+                    padding: 15px 15px 10px 15px;
+                    border-radius: 10px;
+                }
+
+                .profilequote-left:after, .profilequote-left:before {
+                    right: 100%;
+                    top: 30px;
+                    border: solid transparent;
+                    content: " ";
+                    height: 0;
+                    width: 0;
+                    position: absolute;
+                    pointer-events: none;
+                }
+
+                .profilequote-left:after {
+                    border-color: rgba(0, 0, 0, 0);
+                    border-right-color: #;
+                    border-width: 11px;
+                    margin-top: -11px;
+                }
+
+                .profilequote-left:before {
+                    border-color: rgba(201, 201, 201, 0);
+                    border-right-color: #c9c9c9;
+                    border-width: 12px;
+                    margin-top: -12px;
+                }
+
+                .profileimg {
+                    border-radius: 50%;
+                    width: 75px;
+                    height: 75px;
+                    margin: 0 auto;
+                    overflow: hidden;
+                    border: 1px solid #eee;
+                    margin-top: -10px;
+                }
+
+                .profileimg img {
+                    opacity: 1.0;
+                    width: auto;
+                }  Your children have a great attitude towards saving, and the earlier they start the better. There are so many options on the market in terms of where to invest and what unit trust products to use, but my advice would be for your children to firstly look at tax-free savings accounts (TFSAs). Bear in mind that as they are still minors, you would be appointed as the authorised signatory on their investments until they turn 18. TFSAs have the following rules: Access to many different funds is possible, depending on the platform used. I would also recommend shopping around. There are a few banks that offer TFSA solutions, but will punt their funds and theirs alone. Independent advisors will be able to provide a more comprehensive solution, but your children would be able to start saving with R500 per month. If they want to maximise their annual contributions, this would work out to R2 750 a month. In terms of the type of unit trusts, I would recommend unit trust funds that have high-equity components, primarily focused on offshore equity. The reason for this is simple: they should start getting into the habit of long-term savings, because their savings should only really be accessed in 15 to 20 years’ time. They also have time on their side, and will be able to withstand market volatility much more, as opposed to an investor who is approaching retirement and therefore requires a more conservative portfolio. The rand is under pressure due to our shrinking economy and lower tax revenue, and the economy is at risk of being destabilised by Eskom. Our local equity market has also been relatively flat for the last three years, but in US dollar terms it is negative. To put it another way, the JSE All Share Index (Alsi) has performed at 6.1% per annum for the last five years, and the S&P 500 Index has performed 18.3% over the same time frame in rand terms.  The values above are in rand terms; table compiled by Brenthurst Wealth  Looking at performance in US dollar terms, the JSE Alsi performed at -0.3% per annum, and the S&P 500 at 10.9% over the same five-year timeframe.  The values above are in US dollar terms; table compiled by Brenthurst Wealth  Taking both rand and US dollar terms into account, the JSE has underperformed the US market by an extremely large margin. An example I use with a lot of my clients is that South Africans remain net importers of goods. This means that our cars, cellphones, computers and so on, as well as any foreign clothing and food, are imported in US dollar terms – and investors require offshore exposure to protect them against the inflation that creeps in when our currency starts to deteriorate. Compounded with the risks I have indicated above, having a long-term view and being overweight in offshore funds is probably the best recommendation for your children.  
