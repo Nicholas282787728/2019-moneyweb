@@ -1,0 +1,56 @@
+I’m 32 years old and, if I can afford the monthly repayments, is it worthwhile taking out a personal loan of R200 000 to invest in equities (or the Satrix MSCI World ETF for global exposure)? My thinking is that the big lump sum investment will allow compounding to work its magic all the faster – more so than (much) smaller monthly contributions over time. .profile-top a {
+            text-decoration: none !important;
+        }
+
+        .profilequote {
+            position: relative;
+            background-color: #f3f3f3;
+            border-top: 2px solid #c9c9c9;
+            color: #666;
+            padding: 15px 15px 10px 15px;
+            border-radius: 10px;
+        }
+
+        .profilequote:after, .profilequote:before {
+            bottom: 100%;
+            left: 100px;
+            border: solid transparent;
+            content: " ";
+            height: 0;
+            width: 0;
+            position: absolute;
+            pointer-events: none;
+        }
+
+        .profilequote:after {
+            border-color: rgba(0, 0, 0, 0);
+            border-bottom-color: #;
+            border-width: 11px;
+            margin-top: -11px;
+        }
+
+        .profilequote:before {
+            border-color: rgba(201, 201, 201, 0);
+            border-bottom-color: #c9c9c9;
+            border-width: 12px;
+            margin-top: -12px;
+        }
+
+        .profileimg {
+            border-radius: 50%;
+            width: 75px;
+            height: 75px;
+            margin: 0 auto;
+            overflow: hidden;
+            border: 1px solid #eee;
+            margin-top: -10px;
+        }
+
+        .profileimg img {
+            opacity: 1.0;
+            width: auto;
+        }
+
+        .logoimg img {
+            max-height: 75px;
+        }  The cost of borrowing money in the form of a personal loan is likely to be higher than the long-term returns one can expect to achieve from investment markets. Expected returns from the JSE are approximately inflation plus 7%. Therefore, with inflation currently at 5%, we can expect the market to provide a total return of around 12% per year over the long term. As interest rates on personal loans generally start at 13% per year, it does not make sense to borrow money in order to invest. Rather than borrowing a lump sum to invest in the markets and servicing debt on a monthly basis, a preferable solution would be to invest a monthly amount into a unit trust portfolio or your retirement fund. While your financial position may be similar in the long run, your risks will be greatly reduced as you will be investing in the markets on a monthly basis as opposed to investing everything on a particular day. Given the poor market returns and volatility experienced over the past five years, we would caution against trying to time the markets with a single lump sum investment. If you are borrowing money at a much higher cost than investment returns have achieved, you will effectively create a situation where compounding is working against you.  
