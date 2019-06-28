@@ -1,0 +1,56 @@
+I recently received a lump sum payment from the RAF of R6 million and it is currently in my lawyer’s trust account, awaiting instruction from me. I would like to research the best way to invest the money for maximum growth and for retirement. I’d like to take my time learning about it without feeling rushed because I want to be very careful and certain about what decisions I’ll be making. Where can I put this money, where it can be earning interest and have no (or very little) risk of me losing it, while I decide what to do? Instead of it sitting in the trust account, I would like it to benefit from an interest-bearing account for a few months, whereafter I will disperse it into other investment vehicles. I also want to buy a house for myself (I’m 31) and my husband, but can’t decide if I should fund it entirely with a bond or if I should rather get a bond for 50% of the purchase price and invest the rest of what I would have paid for without a bond? .profile-top a {
+            text-decoration: none !important;
+        }
+
+        .profilequote {
+            position: relative;
+            background-color: #f3f3f3;
+            border-top: 2px solid #c9c9c9;
+            color: #666;
+            padding: 15px 15px 10px 15px;
+            border-radius: 10px;
+        }
+
+        .profilequote:after, .profilequote:before {
+            bottom: 100%;
+            left: 100px;
+            border: solid transparent;
+            content: " ";
+            height: 0;
+            width: 0;
+            position: absolute;
+            pointer-events: none;
+        }
+
+        .profilequote:after {
+            border-color: rgba(0, 0, 0, 0);
+            border-bottom-color: #;
+            border-width: 11px;
+            margin-top: -11px;
+        }
+
+        .profilequote:before {
+            border-color: rgba(201, 201, 201, 0);
+            border-bottom-color: #c9c9c9;
+            border-width: 12px;
+            margin-top: -12px;
+        }
+
+        .profileimg {
+            border-radius: 50%;
+            width: 75px;
+            height: 75px;
+            margin: 0 auto;
+            overflow: hidden;
+            border: 1px solid #eee;
+            margin-top: -10px;
+        }
+
+        .profileimg img {
+            opacity: 1.0;
+            width: auto;
+        }
+
+        .logoimg img {
+            max-height: 75px;
+        }  In the first instance, your concern is to move the money into an interest-bearing account to ensure that you are not rushed into making an investment decision. In this regard, a money market fund would be suitable. Money market funds typically provide returns in line with inflation (after taxation) with little risk attached to the investment. Thus, once you are ready to make decisions, you do not have to worry about timing the withdrawal from your money market investment. In preparing this response, we have assumed that you would use half of your capital to purchase a property, and the other half to fund your retirement. With regard to your retirement planning, we have assumed that you will retire when you reach age 65 and that you will draw a post-retirement income of R40 000 per month in today’s terms, with inflation assumed at 6%. Your post-retirement income will increase annually in line with inflation. We have further assumed that you would invest R3 million of your RAF payout into an investment strategy, such as a balanced fund, targeting annual returns of CPI + 4.5%, net of all fees. Taking these assumptions into account, your invested capital will provide for your post-retirement income needs until age 97. Should you wish to use the remaining R3 million to purchase a home, there are a number of things worth considering. If you bonded your home at a prime interest rate of 10.25% per year, it is important to bear in mind that this is roughly the rate of return you could expect to enjoy from a balanced fund over the long term. Effectively, you would be borrowing from the bank at a definitive cost of 10.25% in order to invest with a long-term expectation of a similar return, but with the risk of underperforming when the markets have generated poor returns such as in the past five years. It is also important to take into consideration the emotional benefits of owning your own home without the anxiety of paying off a bond. Over and above these decisions, it is important to ensure that once you have decided how much to invest for retirement purposes, you structure your portfolio in the most tax-efficient manner. Assuming that you and your husband are both still working, paying tax and have disposable income after having purchased your home for cash, we would recommend the following options be considered:  
