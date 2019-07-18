@@ -1,0 +1,59 @@
+My goal is to be debt-free as soon as possible so that I can have financial freedom and that, should I need to change work, I don’t have to worry about debit orders dragging me down (car and house). Background: What would your advice be?
+
+
+        .profile-top a {
+            text-decoration: none !important;
+        }
+
+        .profilequote {
+            position: relative;
+            background-color: #f3f3f3;
+            border-top: 2px solid #c9c9c9;
+            color: #666;
+            padding: 15px 15px 10px 15px;
+            border-radius: 10px;
+        }
+
+        .profilequote:after, .profilequote:before {
+            bottom: 100%;
+            left: 100px;
+            border: solid transparent;
+            content: " ";
+            height: 0;
+            width: 0;
+            position: absolute;
+            pointer-events: none;
+        }
+
+        .profilequote:after {
+            border-color: rgba(0, 0, 0, 0);
+            border-bottom-color: #;
+            border-width: 11px;
+            margin-top: -11px;
+        }
+
+        .profilequote:before {
+            border-color: rgba(201, 201, 201, 0);
+            border-bottom-color: #c9c9c9;
+            border-width: 12px;
+            margin-top: -12px;
+        }
+
+        .profileimg {
+            border-radius: 50%;
+            width: 75px;
+            height: 75px;
+            margin: 0 auto;
+            overflow: hidden;
+            border: 1px solid #eee;
+            margin-top: -10px;
+        }
+
+        .profileimg img {
+            opacity: 1.0;
+            width: auto;
+        }
+
+        .logoimg img {
+            max-height: 75px;
+        }  In preparing this advice, we have assumed that the interest rate on your vehicle is at 11.38% per year. This is based on data supplied by the South African Reserve Bank, which tracks average interest rates charged on instalment sale agreements. Assuming the interest rate on your vehicle is higher than that of your home loan (being 10.9% per annum), we advise that you use the money parked in your access bond to pay off your vehicle in full. In doing so, you will immediately save on interest (the difference between the vehicle and home loan interest rates). We are unsure of the structure of your bond and whether you have decreased your bond repayments relative to the additional funds housed in your access bond. So, although your home loan repayment may increase as a result of withdrawing the additional funds, you will still be able to free up an amount of R3 780 per month by paying off your vehicle. Importantly, this monthly saving should be channelled towards either an investment or back into your bond. In addition, we would advise you as follows: In summary, you would do well to pay off your vehicle as soon as possible and to retain your RA contributions at a comfortable level. Continue to use your access bond to build up emergency reserves and to use it as a storage facility for any additional monies before committing them to an RA. We commend on your excellent money management and your commitment to attaining financial freedom. Also read: Destroy your debt in 10 (not-so-easy) steps  
