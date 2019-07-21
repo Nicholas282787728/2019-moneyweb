@@ -1,0 +1,56 @@
+I am considering starting a tax-free savings investment before the end of the current tax season. I am able to contribute the maximum allotted yearly payment and would like full offshore exposure. Is it wise to contribute this lump sum considering the state of the global economy at the moment, or should one rather contribute monthly to distribute the risk (forfeiting the 2019/20 allocation). I will be able to contribute the full amount again in the next tax season. Some guidance on what investment products to choose from will also be great. I have some unit trusts with Coronation and would prefer to use some of their products if possible, but this is not a requirement. .profile-top a {
+            text-decoration: none !important;
+        }
+
+        .profilequote {
+            position: relative;
+            background-color: #f3f3f3;
+            border-top: 2px solid #c9c9c9;
+            color: #666;
+            padding: 15px 15px 10px 15px;
+            border-radius: 10px;
+        }
+
+        .profilequote:after, .profilequote:before {
+            bottom: 100%;
+            left: 100px;
+            border: solid transparent;
+            content: " ";
+            height: 0;
+            width: 0;
+            position: absolute;
+            pointer-events: none;
+        }
+
+        .profilequote:after {
+            border-color: rgba(0, 0, 0, 0);
+            border-bottom-color: #;
+            border-width: 11px;
+            margin-top: -11px;
+        }
+
+        .profilequote:before {
+            border-color: rgba(201, 201, 201, 0);
+            border-bottom-color: #c9c9c9;
+            border-width: 12px;
+            margin-top: -12px;
+        }
+
+        .profileimg {
+            border-radius: 50%;
+            width: 75px;
+            height: 75px;
+            margin: 0 auto;
+            overflow: hidden;
+            border: 1px solid #eee;
+            margin-top: -10px;
+        }
+
+        .profileimg img {
+            opacity: 1.0;
+            width: auto;
+        }
+
+        .logoimg img {
+            max-height: 75px;
+        }  To clarify, your contribution to a tax-free savings account (TFSA) is not dependent on the tax season but rather on the tax year, currently being March 1, 2019 to end-February 2020. During this period, you are able to contribute a maximum of R33 000 towards your TFSA. These contributions may be made monthly, as a lump sum, or a combination of both. There are two important factors to consider when investing. The first is the amount of time you spend in the investment markets. The longer you are invested, the more time you have for your money to grow and compound. The second factor is the frequency with which you invest in the markets, bearing in mind that markets fluctuate all the time. Time Spending time in the markets is important when investing in a defined, fixed-income fund – such as a money market or income fund – as the returns are known and the earlier you enter the market, the greater the effects of compounding will be over time. When investing in either the local or global stock market, it is important to bear in mind that, in spite of short-term market fluctuations, positive long-term growth does happen in time. For example, if you had invested a single lump sum onto the New York Stock Exchange index tracker in October 2007 (just before the global financial crisis), it would have taken you until November 2013 to recover your initial investment. On the other hand, if you had invested your single lump sum at the bottom of the crisis, being March 2009, you would have seen a total investment growth of about 132% by November 2013 – nearly two-and-a-half times your initial investment. Frequency Investing frequently in the markets – whether weekly, monthly, quarterly or on an ad hoc basis – allows investors to achieve an aggregated purchase of the underlying units, rather than at a single point in time. In our local markets this is colloquially known as ‘rand cost averaging’. So, if you have a lump sum available to invest, you may wish to consider using a phasing-in approach. Although you can make the full contribution in a single payment, you can instruct the financial institution to buy into a chosen fund(s) over a set period. The result is that your money will be more slowly exposed to the markets. The full balance is held in cash, while a portion of your money will be used to buy into the fund at a predetermined point in time, usually monthly. Attempting to time the market and/or anticipate when to buy in works in an extremely small number of cases – and most of those can be attributed to pure luck. Had you made a lump sum investment in October 2007, would you have remained invested until 2013? If you were investing on a monthly basis, would you have continued making regular investments while watching the markets rapidly decline? An investor’s ability to stay calm and keep their emotions in check is an all-important criterion for successful long-term investing. In terms of where to invest to gain full offshore exposure within a TFSA, bear in mind that you are not able to invest directly offshore where your investment is in hard currencies such as US dollars, UK pounds or euro, and you will need to use a global feeder fund. These feeder funds are domiciled in rands. This means that your investment will be made in rands and any withdrawals will be received in rands, but the underlying investments are held 100% offshore. When selecting a fund be aware of who the underlying asset managers are, as well as the geographical allocation of the funds. The global market is a big place and threats in one area may lead to opportunities in others.  
