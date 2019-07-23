@@ -1,0 +1,56 @@
+When I resigned from my then-employer 10 years ago I deferred my pension and left it with my then-pension fund. This meant I could only access it at retirement, aged 55. What I would like to know is do the new default regulations that came into effect on March 1 allow me to move it to another fund manager? If so, what are my options? .profile-top a {
+            text-decoration: none !important;
+        }
+
+        .profilequote {
+            position: relative;
+            background-color: #f3f3f3;
+            border-top: 2px solid #c9c9c9;
+            color: #666;
+            padding: 15px 15px 10px 15px;
+            border-radius: 10px;
+        }
+
+        .profilequote:after, .profilequote:before {
+            bottom: 100%;
+            left: 100px;
+            border: solid transparent;
+            content: " ";
+            height: 0;
+            width: 0;
+            position: absolute;
+            pointer-events: none;
+        }
+
+        .profilequote:after {
+            border-color: rgba(0, 0, 0, 0);
+            border-bottom-color: #;
+            border-width: 11px;
+            margin-top: -11px;
+        }
+
+        .profilequote:before {
+            border-color: rgba(201, 201, 201, 0);
+            border-bottom-color: #c9c9c9;
+            border-width: 12px;
+            margin-top: -12px;
+        }
+
+        .profileimg {
+            border-radius: 50%;
+            width: 75px;
+            height: 75px;
+            margin: 0 auto;
+            overflow: hidden;
+            border: 1px solid #eee;
+            margin-top: -10px;
+        }
+
+        .profileimg img {
+            opacity: 1.0;
+            width: auto;
+        }
+
+        .logoimg img {
+            max-height: 75px;
+        }  For the purpose of the response, we have assumed that you are still below the age of 55. Firstly, prior to March 1, 2019, a deferred pension fund could always be transferred via Section 14 of the Pension Fund Act to your new pension fund, pension preservation fund or retirement annuity (RA). This ruling has not changed. This means that you are currently able to do one of the following: Most insurance companies and investment platforms are able to provide investors with access to these three investment vehicles, and your advisor will be able to guide you as to which is most suitable for your purposes. However, it is important to bear in mind that the investment fees where you are currently invested will be priced at an institutional rate. Should you elect to move your funds to a preservation fund or RA, bear in mind that your investment fees will be higher as you will lose the benefit of the institutional pricing. It is therefore important to consider investment fees, fund performance, your tolerance for risk and your investment horizon when selecting an appropriate fund. If you elect to move your money into a preservation fund, bear in mind that you are permitted to make a once-off withdrawal before the age of 55, subject to tax. However, should you move your funds into an RA, you will not be able to access any of your funds before age 55. Should you elect to move your funds to a preservation fund or RA, your advisor will help you to select the underlying funds from a list of funds available on the investment platform.  
