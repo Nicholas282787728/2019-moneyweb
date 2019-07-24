@@ -1,0 +1,56 @@
+I am 69 years old and still working. I contribute to a medical aid and two retirement annuities (RAs). Is my medical aid fully tax deductible and would I be able to gain a bigger tax relief by paying extra money into my RA? What would be the formula for me to use to calculate if I can benefit taking the above into consideration? .profile-top a {
+            text-decoration: none !important;
+        }
+
+        .profilequote {
+            position: relative;
+            background-color: #f3f3f3;
+            border-top: 2px solid #c9c9c9;
+            color: #666;
+            padding: 15px 15px 10px 15px;
+            border-radius: 10px;
+        }
+
+        .profilequote:after, .profilequote:before {
+            bottom: 100%;
+            left: 100px;
+            border: solid transparent;
+            content: " ";
+            height: 0;
+            width: 0;
+            position: absolute;
+            pointer-events: none;
+        }
+
+        .profilequote:after {
+            border-color: rgba(0, 0, 0, 0);
+            border-bottom-color: #;
+            border-width: 11px;
+            margin-top: -11px;
+        }
+
+        .profilequote:before {
+            border-color: rgba(201, 201, 201, 0);
+            border-bottom-color: #c9c9c9;
+            border-width: 12px;
+            margin-top: -12px;
+        }
+
+        .profileimg {
+            border-radius: 50%;
+            width: 75px;
+            height: 75px;
+            margin: 0 auto;
+            overflow: hidden;
+            border: 1px solid #eee;
+            margin-top: -10px;
+        }
+
+        .profileimg img {
+            opacity: 1.0;
+            width: auto;
+        }
+
+        .logoimg img {
+            max-height: 75px;
+        }  I have split my answer into two sections: the question about tax on medical scheme contributions and the question on tax relief and the RA. Medical scheme contributions Medical scheme contributions are not fully tax deductible. Calculations for medical tax credits are based on a formula that takes the following into account: More details on the terms and conditions of these rules, as well as which expenses can be claimed for and which dependents are classified as such by the Income Tax Act, are available on the South African Revenue Service (Sars) website here. Tax liability is calculated after taking all normal rebates into account and then deducting allowable medical tax credits and additional medical tax credits, as applicable. Over 65s are eligible for rebates based on the following calculation: 33% of the total contribution paid to the medical scheme, less (three times the medical scheme fees credit of R310 per adult beneficiary per month), plus qualifying additional medical expenses. The allowable medical tax credits deducted from your payable income can therefore vary from year to year, depending on your actual expenses. Retirement annuity With respect to paying extra money into a RA, it is difficult to give specific advice without knowing your full circumstances. However, we have included some generic information that should be useful. At the age of 69 it would be vital to seek advice from a financial advisor, as there are specific regulations surrounding RAs that must be considered. RA contributions are deductible but limited to 27.5% of the greater of remuneration or taxable income (including capital gains prior to March 1, 2019), but excluding lump sums and severance benefits, prior to the deductions for donations, limited to R350 000. As long as the contributions fall within the above parameters you will receive tax relief by paying extra money into an RA. However, as mentioned, you need to be aware of the regulations that apply to RAs. These include, but are not limited to: As an example, it might be better to commence a new RA rather than contribute to your existing ones. This is due to the annuitisation rules and the ability to take lump sums from RAs. It is also important to fully understand the taxation of RAs pre- and post your actual retirement.  
