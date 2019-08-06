@@ -1,0 +1,56 @@
+When I retire, I plan to take R500 000 as a lump sum and place the remainder of my retirement savings in a living annuity from which income will be drawn. I would like to know what the tax implications will be in the following two scenarios: 1) Investing the lump sum either in a unit trust until I need the funds, or part of it, and then making a withdrawal; 2) Investing it in a unit trust but making a monthly withdrawal from it (this will therefore be in addition to my income drawn from the living annuity). .profile-top a {
+            text-decoration: none !important;
+        }
+
+        .profilequote {
+            position: relative;
+            background-color: #f3f3f3;
+            border-top: 2px solid #c9c9c9;
+            color: #666;
+            padding: 15px 15px 10px 15px;
+            border-radius: 10px;
+        }
+
+        .profilequote:after, .profilequote:before {
+            bottom: 100%;
+            left: 100px;
+            border: solid transparent;
+            content: " ";
+            height: 0;
+            width: 0;
+            position: absolute;
+            pointer-events: none;
+        }
+
+        .profilequote:after {
+            border-color: rgba(0, 0, 0, 0);
+            border-bottom-color: #;
+            border-width: 11px;
+            margin-top: -11px;
+        }
+
+        .profilequote:before {
+            border-color: rgba(201, 201, 201, 0);
+            border-bottom-color: #c9c9c9;
+            border-width: 12px;
+            margin-top: -12px;
+        }
+
+        .profileimg {
+            border-radius: 50%;
+            width: 75px;
+            height: 75px;
+            margin: 0 auto;
+            overflow: hidden;
+            border: 1px solid #eee;
+            margin-top: -10px;
+        }
+
+        .profileimg img {
+            opacity: 1.0;
+            width: auto;
+        }
+
+        .logoimg img {
+            max-height: 75px;
+        }  Scenario one Withdraw R500 000 (presumably tax free) and reinvest the remainder of your retirement capital in a living annuity. Living expenses are funded purely from the living annuity, keeping aside the R500 000 for ad hoc lump sum capital withdrawals. Result 1) Living annuity: Living annuity income withdrawals attract income tax at each investor’s personal marginal income tax rate. The higher the income amount withdrawn from a living annuity, the higher the marginal income tax rate that applies. Living annuity assets do not attract any dividends, interest or capital gains tax (CGT). 2) Discretionary unit trust: Dividend receipts are taxed at 20%. Interest receipts are taxed at marginal income tax rates (first R23 800 interest is exempt). Investment withdrawals trigger capital gains (or losses), which could cause a tax liability for the investor. Investors enjoy a R40 000 per tax year ‘capital gains’ exemption. Any gains greater than this exemption are included in the investor’s taxable income against their personal marginal tax rates (inclusion rate = 40% for individuals). Local unit trust investments generally attract dividend and interest taxes while invested and CGT, if applicable, on withdrawal. Scenario two Withdraw R500 000 and reinvest the remainder in a living annuity. Living expenses are dual funded from the living annuity and the R500 000 lump sum on a monthly basis. Result a) Living annuity: Living expenses are funded from both the living annuity and discretionary unit trust investment. This would imply that a smaller monthly amount is taken from the living annuity, resulting in a lower income tax liability (as explained above). b) Discretionary unit trust: Dividend receipts are taxed at 20%. Interest receipts are taxed at marginal income tax rates (first R23 800 interest is exempt). Reducing the overall income tax rate by lowering the taxable income withdrawal amounts from the living annuity effectively also reduces the rate against which capital gains (after exemption) will be taxed. Apart from reducing the overall income tax rate, applying the R40 000 CGT exemption each tax year (compared with ad hoc – for example, every second or third year), further reduces the actual amount CGT payable. I am all for optimising a post-retirement investment tax strategy, but it is much more important to manage both your living annuity and lump sum investments in such a manner that neither runs out of capital prematurely. This requires a proper post-retirement projection to illustrate the impact of income withdrawals from each of these investments.  
