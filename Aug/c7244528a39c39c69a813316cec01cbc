@@ -1,0 +1,56 @@
+I’m with government and not intending to move my funds to the provident fund unless convinced otherwise. The government is offering early retirement for employees aged 55 to 59, without penalties, before September 30. I have yet to obtain a quotation based on the current offer. Do you advise I take the early retirement as offered by government? Do I have to obtain a quotation based on the early retirement offer before deciding, if it is going to be different from the above quotation? .profile-top a {
+            text-decoration: none !important;
+        }
+
+        .profilequote {
+            position: relative;
+            background-color: #f3f3f3;
+            border-top: 2px solid #c9c9c9;
+            color: #666;
+            padding: 15px 15px 10px 15px;
+            border-radius: 10px;
+        }
+
+        .profilequote:after, .profilequote:before {
+            bottom: 100%;
+            left: 100px;
+            border: solid transparent;
+            content: " ";
+            height: 0;
+            width: 0;
+            position: absolute;
+            pointer-events: none;
+        }
+
+        .profilequote:after {
+            border-color: rgba(0, 0, 0, 0);
+            border-bottom-color: #;
+            border-width: 11px;
+            margin-top: -11px;
+        }
+
+        .profilequote:before {
+            border-color: rgba(201, 201, 201, 0);
+            border-bottom-color: #c9c9c9;
+            border-width: 12px;
+            margin-top: -12px;
+        }
+
+        .profileimg {
+            border-radius: 50%;
+            width: 75px;
+            height: 75px;
+            margin: 0 auto;
+            overflow: hidden;
+            border: 1px solid #eee;
+            margin-top: -10px;
+        }
+
+        .profileimg img {
+            opacity: 1.0;
+            width: auto;
+        }
+
+        .logoimg img {
+            max-height: 75px;
+        }  We take it that your assumptions are based on calculations done on the Government Employees Pension Fund (GEPF) website. If this is the case, we recommend that you obtain an official quotation regarding the early retirement offer as it may differ slightly from the figures you have received from the website. Thereafter, there are a few things we believe you should be aware of before making your final decision. Firstly, if you decide against early retirement now, but change your mind later and decide on early retirement for any other reason, you will be penalised on both your gratuity and your annuity, which could be detrimental to your retirement. Secondly, if you continue working until normal retirement age, your benefits at retirement would be greater than what they are now. Lastly, bear in mind that while the GEPF guarantees certain payments for the rest of your life, these guarantees may fall away should the GEPF experience financial difficulties or change its fund rules. A major concern when considering a GEPF annuity income relates to the growth rate assumptions. From our experience, GEPF annuity payments don’t always increase in line with inflation. If this is the case, bear in mind that over time you will gradually lose the purchasing power of your income. In our planning, we generally make a conservative assumption that the GEPF annuity increases 4.5% per year. Having said this, the best way to make a decision is to understand what your financial position would look like should you take early retirement and not pay any penalties. In preparing the scenario below, we have made the following assumptions: If you retired now, at age 57, you would draw a net income of R32 260 per month while only spending R18 000 per month, meaning you would be able to put the difference into your discretionary investment. As your GEPF annuity increase is set below inflation, the real value of your income will decrease gradually over time and the amount you will have available to channel towards your discretionary investment will reduce. However, your annuity and rental income would be sufficient to cover your monthly expenditure of R18 000 until you reach age 97, without having to access your discretionary investment nor your retirement annuity. Please note that the above is merely one scenario based on a set of assumptions that we have put together. We recommend that you engage the services of an independent financial advisor before making a final decision regarding your retirement.  
