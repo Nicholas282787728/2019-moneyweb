@@ -1,0 +1,56 @@
+I’m currently looking at investing in a new business and was wondering if I will be taxed in my personal capacity for my contribution to the enterprise? .profile-top a {
+            text-decoration: none !important;
+        }
+
+        .profilequote {
+            position: relative;
+            background-color: #f3f3f3;
+            border-top: 2px solid #c9c9c9;
+            color: #666;
+            padding: 15px 15px 10px 15px;
+            border-radius: 10px;
+        }
+
+        .profilequote:after, .profilequote:before {
+            bottom: 100%;
+            left: 100px;
+            border: solid transparent;
+            content: " ";
+            height: 0;
+            width: 0;
+            position: absolute;
+            pointer-events: none;
+        }
+
+        .profilequote:after {
+            border-color: rgba(0, 0, 0, 0);
+            border-bottom-color: #;
+            border-width: 11px;
+            margin-top: -11px;
+        }
+
+        .profilequote:before {
+            border-color: rgba(201, 201, 201, 0);
+            border-bottom-color: #c9c9c9;
+            border-width: 12px;
+            margin-top: -12px;
+        }
+
+        .profileimg {
+            border-radius: 50%;
+            width: 75px;
+            height: 75px;
+            margin: 0 auto;
+            overflow: hidden;
+            border: 1px solid #eee;
+            margin-top: -10px;
+        }
+
+        .profileimg img {
+            opacity: 1.0;
+            width: auto;
+        }
+
+        .logoimg img {
+            max-height: 75px;
+        }  Investing in a new business is always exciting and taking the risk is commendable in the current economic environment. It is through investment in small businesses that we can help grow our economy and create much-needed employment opportunities. When investing in a new business, there are a couple of ways to go about it: either by taking up ownership in the business or by providing it with working capital through a loan. Ownership Taking up ownership in a new business takes the shape of the purchase of shares in the business. Once you become a shareholder in a business, you are entitled to receive dividends based on the profits of the company, which the shareholders agree to have distributed to them. The receipt of dividends by a shareholder is seen as a taxable event and you will be taxed at a rate of 20% on the dividend. The dividends tax will be withheld by the company and paid over to the South African Revenue Service (Sars). By way of example, a company has made an after-tax profit of R1 million for the year and the shareholders decide to declare the full profit as a dividend. There are two shareholders, each with a shareholding of 50% each. Shareholder A Dividend declared Dividend tax withheld by the company @ 20% and paid over to Sars R400 000 The same calculation will be done for Shareholder B. A further tax implication may arise due to the shareholding at the time the shares are sold. At this stage capital gains tax may become payable on the growth in value of the shares. The first R40 000 of capital gain received by an individual in a tax year is exempt, with 40% of the balance being included in the taxable income of the recipient. Let’s say you purchased shares in a company for R100 000 on January 1, 2015, and were able to sell them on August 1, 2019, for an amount of R500 000. For this example, we have assumed that you will earn a taxable income of R710 000 in the 2019/20 tax year. The tax payable due to the sale of your shares will be calculated as follows: Capital gains tax based on the above scenario Proceeds due to the sale of shares Less: Base cost (cost of acquiring the shares) Capital gain Less your annual exclusion Your capital gain Taxable portion (40%) The R144 000 is added to your taxable income of R710 000 (as assumed in the above scenario), resulting in total taxable income of R854 000. This puts your marginal tax rate at 41%. The R144 000 will thus be taxed at 41%, which means you will be paying approximately R59 040 in capital gains tax. Loan By providing a loan to the business, the business has access to working capital in return for the interest you may charge on the loan. The interest you charge on the loan needs to be declared in your annual tax return. For example, you provide a loan of R500 000 to a business and agree to an interest rate of 10% per annum on the capital amount of the loan. This means you will have received interest of R50 000 for the year. In your annual tax return, you will have to declare the R50 000 interest earned as income. In the 2019/20 tax year, if you are under the age of 65, the first R23 800 will be exempt income, while the balance will be taxed according to your marginal rate of tax. For individuals older than 65, the first R34 500 will be exempt from income tax. As can be seen from the above, the tax implications of your investment in the business will depend on the nature of the business, as well as how you choose to structure the investment. Deciding how to structure the investment will give you either a right to participate in the running of the business and to share in its profits, or to remain separate from it and receive an income from your investment.  
