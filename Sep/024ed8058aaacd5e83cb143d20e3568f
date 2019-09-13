@@ -1,0 +1,56 @@
+I have resigned from my job and have R3 000 000. How much monthly interest would you get on this amount, and where is it best to invest it? .profile-top a {
+            text-decoration: none !important;
+        }
+
+        .profilequote {
+            position: relative;
+            background-color: #f3f3f3;
+            border-top: 2px solid #c9c9c9;
+            color: #666;
+            padding: 15px 15px 10px 15px;
+            border-radius: 10px;
+        }
+
+        .profilequote:after, .profilequote:before {
+            bottom: 100%;
+            left: 100px;
+            border: solid transparent;
+            content: " ";
+            height: 0;
+            width: 0;
+            position: absolute;
+            pointer-events: none;
+        }
+
+        .profilequote:after {
+            border-color: rgba(0, 0, 0, 0);
+            border-bottom-color: #;
+            border-width: 11px;
+            margin-top: -11px;
+        }
+
+        .profilequote:before {
+            border-color: rgba(201, 201, 201, 0);
+            border-bottom-color: #c9c9c9;
+            border-width: 12px;
+            margin-top: -12px;
+        }
+
+        .profileimg {
+            border-radius: 50%;
+            width: 75px;
+            height: 75px;
+            margin: 0 auto;
+            overflow: hidden;
+            border: 1px solid #eee;
+            margin-top: -10px;
+        }
+
+        .profileimg img {
+            opacity: 1.0;
+            width: auto;
+        }
+
+        .logoimg img {
+            max-height: 75px;
+        }  As you mention resignation, I am assuming the R3 million you are referring came from a retirement fund at work. Depending on your age and risk profile, my advice may differ. There are however a few principles that can be discussed at this point. The first step is to determine the investment vehicle you will be using. Will this be a more flexible/liquid investment or will this investment continue in the form of a retirement fund? If the money is from a pension or a provident fund, withdrawing it will have severe tax implications. The funds will be taxed according to the withdrawal tax tables. The first R25 000 is tax-free, depending on any previous withdrawals taken. Source: Sars It is not advisable to withdraw the funds because of these tax implications. This leaves you with two reinvestment options to consider: investing in either a preservation fund (pension or provident, depending on the type of fund you are invested in) or a retirement annuity (RA). A preservation fund offers more flexibility, as you are allowed to make either one partial or one full withdrawal before the age of 55. This withdrawal will still be taxed according to the sliding scale shown above. An RA will only be accessible from the age of 55. At that stage, you will be allowed to take a third as a cash lump sum, while the remaining two thirds must be used to buy a compulsory annuity, which will then pay you a monthly income. The lump sum taken at retirement will be taxed according to the retirement tax tables. The first R500 000 is tax-free, depending on any previous withdrawals. Source: Sars Ideally, you should leave the investment (preservation fund or RA) to grow until your actual retirement – which will most likely be closer to 65 or 70, considering current trends. When investing in any of the pre-retirement products mentioned above, the underlying asset classes will need to comply with Regulation 28 of the Pension Funds Act. The limits are as follows: no more than 30% in offshore exposure, excluding Africa; 40% in offshore exposure if including Africa; no more than 75% in equity exposure; and no more than 25% in listed property. If the funds are invested in a discretionary vehicle (such as voluntary products with a linked investment service provider), the investment will not be subject to Regulation 28 and no restrictions will apply in terms of offshore or equity exposure. The underlying return will depend on how the underlying asset classes are structured, underlying fees and – most importantly – market returns. The appropriate asset allocation is in turn determined by your risk profile. Your question refers to interest received. I am not sure if you are referring to interest specifically or the return of the portfolio in general. If you are referring to interest, this implies a cash-based investment and also a low-risk approach with no market volatility. Investment vehicles If we look at the performance of a few money market and multi-asset income funds over the past year, an average nominal return of 7-9% per annum can be expected. This would fluctuate in line with prevailing interest rates over time. Depending on your age, risk profile and personal objectives, it is advisable to rather diversify across multiple asset classes to ensure an optimal return over the longer term – building in ‘growth assets’ as well. This refers to equity exposure, locally and offshore. With any investment it is important to remember that there will always be market fluctuations and that markets will move in cycles. The past five years have been exceptionally challenging, but keeping a longer-term mindset and focusing on your long-term objective, which is retirement, is important. Within the limits of Regulation 28, investment strategies can vary from cash to inflation (CPI)+2% or CPI+6 %, depending on the underlying offshore and equity exposure. If we had followed a balanced-fund approach targeting an expected return of CPI+5%/CPI+6%, the returns would have looked as follows for various periods (ending July 2019). These funds would have just outperformed inflation over a five-year period. Source: PSG Wealth If we look at the same funds for the performance period ending exactly one year earlier (July 2018), the returns would have looked very different. This illustrates how the volatility in the market has a significant impact on the expected returns of the portfolio, bringing us closer to an expected return of CPI+5% or CPI+6%. Choosing the correct investment vehicle, avoiding unnecessary tax implications, and ensuring your underlying fee structure and investment strategy is sound, all have an impact on ensuring a resilient portfolio. In these volatile market conditions, it is advisable to diversify between asset classes and fund managers to ensure that you are protecting yourself against volatility. At PSG Wealth we make use of the PSG Wealth multi-manager solution funds – ranging from a money market approach to offshore funds that are well-diversified across some of the top fund managers locally and offshore. These funds help to ensure that you have not only diversified in terms of asset classes, but also in terms of the styles of the different managers.  
